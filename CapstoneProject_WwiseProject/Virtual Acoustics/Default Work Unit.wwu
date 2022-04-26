@@ -1,6 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
-<WwiseDocument Type="WorkUnit" ID="{32A0BAE6-8803-40AC-8C9A-4FFA5BB86254}" SchemaVersion="103">
-	<VirtualAcoustics>
-		<WorkUnit Name="Default Work Unit" ID="{32A0BAE6-8803-40AC-8C9A-4FFA5BB86254}" PersistMode="Standalone"/>
-	</VirtualAcoustics>
-</WwiseDocument>
+version https://git-lfs.github.com/spec/v1
+oid sha256:10513e5662abf257a12825510bffe28d732019dff07a5db877f2f9bc0d9818a8
+size 307

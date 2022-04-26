@@ -1,11 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
-<WwiseDocument Type="WorkUnit" ID="{1C8A207A-11C1-490C-9DA5-A61958E290D4}" SchemaVersion="103">
-	<AudioDevices>
-		<WorkUnit Name="Default Work Unit" ID="{1C8A207A-11C1-490C-9DA5-A61958E290D4}" PersistMode="Standalone">
-			<ChildrenList>
-				<AudioDevice Name="System" ID="{986807BB-C46B-415A-9C90-AE43A37CA403}" PluginName="System" CompanyID="0" PluginID="174" PluginType="7"/>
-				<AudioDevice Name="No_Output" ID="{8C2BF15E-95A7-444E-B3DA-14EE5B6B7BD2}" PluginName="No Output" CompanyID="0" PluginID="181" PluginType="7"/>
-			</ChildrenList>
-		</WorkUnit>
-	</AudioDevices>
-</WwiseDocument>
+version https://git-lfs.github.com/spec/v1
+oid sha256:9bc1c29ec9888d8bec89e5f817a6bc201183ed4ecbd6696c16e563d769cdde36
+size 642
